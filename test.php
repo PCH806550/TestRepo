@@ -6,3 +6,4 @@ echo PHP_EOL;
 
 exit;
 exit;
+exit;
