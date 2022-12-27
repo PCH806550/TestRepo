@@ -3,3 +3,5 @@
 echo 'test';
 
 echo PHP_EOL;
+
+exit;
